@@ -4,6 +4,7 @@ This is a basic project schema using [Processing](https://processing.org/) with 
 Based on the [RBG Cube example](https://processing.org/examples/rgbcube.html).
 
 Execution sample:
+
 ![](processing_base_project.png)
 
 
